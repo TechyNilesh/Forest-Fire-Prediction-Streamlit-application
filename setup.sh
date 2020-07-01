@@ -10,3 +10,6 @@ echo "\
 headless = true\n\
 enableCORS=false\n\
 port = $PORT\n\
+" > ~/.streamlit/config.toml
+
+echo "[server]\nheadless = true\nenableCORS=false\nport = \n"
