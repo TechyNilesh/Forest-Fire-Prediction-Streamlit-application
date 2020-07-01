@@ -10,5 +10,3 @@ echo "\
 headless = true\n\
 enableCORS=false\n\
 port = $PORT\n\
-"streamlit config show > ~/.streamlit/config.toml
-"rm -i ~/.streamlit/config.toml
