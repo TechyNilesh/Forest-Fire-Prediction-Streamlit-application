@@ -50,7 +50,7 @@ st.write('**Forest is Not under Danger**:',prediction_proba[0][1])
 
 html_temp1 = """
     <div style="background-color:#010200">
-    <p style="color:white;text-align:center;" >Designe & Developed By: <b>Gaurav R. Sahani</b> </p>
+    <p style="color:white;text-align:center;" >Designe & Developed By: <b>Nilesh Verma</b> </p>
     </div>
     """
 st.markdown(html_temp1,unsafe_allow_html=True)
